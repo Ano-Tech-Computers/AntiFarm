@@ -1,8 +1,0 @@
-name: AntiFarm
-main: no.atc.floyd.bukkit.antifarm.AntiFarm
-version: 1.03
-website: http://minecraft.atc.no/plugins
-author: FloydATC
-description: >
-             Prevents XP and drops from farmed mobs.
-

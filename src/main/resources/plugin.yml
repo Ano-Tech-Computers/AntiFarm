@@ -1,0 +1,6 @@
+name: "${project.name}"
+main: no.atc.floyd.bukkit.antifarm.AntiFarm
+version: "${project.version}"
+website: "${project.url}"
+author: FloydATC
+description: "${project.description}"
